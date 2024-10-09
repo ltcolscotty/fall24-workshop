@@ -1,6 +1,6 @@
 # fall24-workshop
 
-This is a dummy repository that will be used for the workshop challenge. In this challege, you are required to remove the contents of .env file from the comit history, so that no environment varaibles are published in the application. 
+This is a dummy repository that will be used for the workshop challenge. In this challenge, you are required to remove the contents of .env file from the commit history, so that no environment variables are published in the application. Fork the repository, make the required changes, and open a pull request. 
 
 Resources: 
 https://learngitbranching.js.org/
